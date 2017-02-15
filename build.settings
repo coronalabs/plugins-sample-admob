@@ -49,8 +49,7 @@ settings =
 	{
 		["plugin.admob"] =
 		{
-			publisherId = "com.coronalabs",
-			supportedPlatforms = { iphone=true, android=true }
+			publisherId = "com.coronalabs"
 		},
 	},
 }
